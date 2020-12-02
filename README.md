@@ -3,7 +3,7 @@
 The Mailspring Theme Starter is a basic starting point for creating a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
 
-<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
+<img src="./screenshot/mailspring_preview.png" />
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ Creating a new theme in Mailspring is easy! Here's how you can do it.
    description for your theme to `package.json`, and change the directory name
    to match.
 
-2. Open Mailspring  and install the theme by going to `Mailspring > Install New Theme...`
+2. Open Mailspring and install the theme by going to `Mailspring > Install New Theme...`
    and selecting the directory.
 
 3. Choose `Developer > Run With Debug Flags` for easier debugging.

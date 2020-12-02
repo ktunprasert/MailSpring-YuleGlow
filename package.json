@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "yule-glow-contrast-mailspring",
+  "title": "MailSpring Yule Glow Contrast",
+  "displayName": "MailSpring Yule Glow Contrast",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "Theme inspired by @daylerees Yule Glow theme.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
